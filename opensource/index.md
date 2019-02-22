@@ -104,6 +104,6 @@ The topics in this guide on [Other ways to contribute](/opensource/ways/)
 provide some additional information,  but the community
 information you are looking for is probably available on the GitHub repository.
 
-## Looking for Moby?
+## Looking for Moby??
 
 {% include content/moby.md %}
